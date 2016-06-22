@@ -1,0 +1,22 @@
+h1{
+	color:aquamarine;
+	font:times;
+	text-align:center;
+}
+
+body{
+	background: green;
+}
+div{
+	background: white;
+}
+
+#circle{
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+}
+img{
+	height: 60px;
+	width: 60px;
+}
