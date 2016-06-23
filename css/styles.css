@@ -6,17 +6,28 @@ h1{
 
 body{
 	background: green;
+	text-align: center;
 }
 div{
-	background: white;
+	background: blue;
+	color:aquamarine;
+	font:times;
 }
 
 #circle{
-	height: 100px;
-	width: 100px;
+	height: 200px;
+	width: 200px;
 	border-radius: 100%;
+	margin-top: 100px;
+	text-align: center;
+	margin: auto;
+	color:white;
+
+
 }
 img{
-	height: 60px;
-	width: 60px;
+	height: 150px;
+	width: 150px;
 }
+
+
